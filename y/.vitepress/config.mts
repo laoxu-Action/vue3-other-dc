@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/vue3-other-dc/',
   title: "Vue3-other",
   description: "vue3方便的hooks与组件",
   themeConfig: {
